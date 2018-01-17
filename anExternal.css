@@ -1,3 +1,6 @@
 body {background-color: grey;}
 h1 {color: white; margin-left: 20px;}
 .anExternal {color: white; font-family: helvetica}
+div.rounded-box {
+	border-radius: 20;
+}
