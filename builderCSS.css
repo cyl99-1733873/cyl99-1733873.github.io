@@ -10,6 +10,7 @@ body{
 
 h2{
 	font-family: 'Poiret One', cursive;
+	text-align: center;
 }
 
 fieldset.form-horizontal {
@@ -17,9 +18,4 @@ fieldset.form-horizontal {
 	
 	margin-bottom: 10px;
 	border: dotted 2px black;
-}
-
-
-.form-group {
-	
 }
