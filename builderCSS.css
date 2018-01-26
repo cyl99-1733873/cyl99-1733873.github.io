@@ -1,19 +1,25 @@
 body{
-	background-image: url('Lined Paper.png');
-	color: white;
+	background-image: url('Cream Wallpaper.jpg');
 }
 
 .container {
-	border: 1px solid white;
+	border: 1px solid black;
 	width: 1400px;
 	padding: 2em;
 }
 
 h2{
-	color: white;
 	font-family: 'Poiret One', cursive;
 }
 
+fieldset.form-horizontal {
+	background-color: gold;
+	
+	margin-bottom: 10px;
+	border: dotted 2px black;
+}
+
+
 .form-group {
-	color: white;
+	
 }
