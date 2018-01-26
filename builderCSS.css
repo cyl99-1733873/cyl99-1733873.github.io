@@ -1,8 +1,19 @@
 body{
 	background-image: url('Galaxy Background.jpg');
-	
+	color: white;
+}
+
+.container {
+	border: 1px solid white;
+	width: 1400px;
+	padding: 2em;
 }
 
 h2{
+	color: white;
 	font-family: 'Poiret One', cursive;
+}
+
+.form-group {
+	color: white;
 }
